@@ -79,10 +79,10 @@ The source code and specific training scripts are **restricted** for academic an
 
 **Contact for Technical Walkthrough:**
 
-**Author:** Georgios Papadopoulos 
+**Author:** Yiorgos Papadopoulos 
 
 
  
-**LinkedIn:** https://www.linkedin.com/in/georgios-papadopoulos002/
+**LinkedIn:** https://www.linkedin.com/in/yiorgospapadopoulos/
   
 **Email:** giorgospapadopoulos002@yahoo.com 
